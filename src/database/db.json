@@ -1,0 +1,36 @@
+{
+  "workouts": [
+    {
+      "id": "3423423qwr",
+      "name": "Tomy V",
+      "mode": "Form time",
+      "equipment": [
+        "barbell",
+        "rope"
+      ],
+      "exercises": [
+        "21 thrusters",
+        "12 rop clims, 15 ft",
+        "9 thrusters"
+      ],
+      "createdAt": "4/20/22, 3:33:35 PM",
+      "updatedAt": "4/20/22, 3:33:35 PM",
+      "trainersTips": [
+        "split the 21 thursters as needed",
+        "12 rop clims, 15 ft",
+        "9 thrusters"
+      ]
+    },
+    {
+      "name": "Jorge Alvarez",
+      "mode": "Form time",
+      "equipment": [
+        "football",
+        "canasta"
+      ],
+      "id": "0a596a20-3a17-4166-bf9c-fdb82b0909d8",
+      "createdAt": "10/3/2024",
+      "updatedAt": "10/3/2024"
+    }
+  ]
+}
